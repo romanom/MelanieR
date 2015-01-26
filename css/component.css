@@ -14,7 +14,7 @@
 }
 
 .demo-2 .large-header {
-	background-image: url('../img/demo-2-bg.jpg');
+	background-image: url('../img/mar.jpg');
 	background-position: center bottom;
 }
 
@@ -46,11 +46,11 @@
 }
 
 .demo-2 .main-title {
-	font-family: 'Clicker Script', cursive;
+	font-family: 'Amatic SC', cursive;
 	font-weight: normal;
-	font-size: 8em;
+	font-size: 7em;
 	padding-left: 10px;
-	text-shadow: 2px 2px 4px rgba(0,0,0,0.4);
+	text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
 }
 
 .demo-2 .main-title::before {
@@ -59,7 +59,7 @@
 	height: 20vw;
 	min-width: 3.5em;
 	min-height: 3.5em;
-	background: url(../img/deco.svg) no-repeat center center;
+	
 	background-size: cover;
 	position: absolute;
 	top: 50%;
@@ -100,3 +100,4 @@
 		font-size: 4em;
 	}
 }
+

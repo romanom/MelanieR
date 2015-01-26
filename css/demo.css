@@ -122,12 +122,12 @@ p.ref {
 	font-weight: 700;
 	border-radius: 2px;
 	font-size: 110%;
-	border: 2px solid transparent;
+	border: 2px solid lightblue;
 }
 
 .codrops-demos a:hover,
 .codrops-demos a.current-demo {
-	border-color: #383a3c;
+	border-color: #95a5a6;
 }
 
 .codrops-demos h3 {
@@ -145,8 +145,8 @@ p.ref {
 
 .codrops-demos a:hover,
 .codrops-demos a.current-demo {
-	color: inherit;
-	border-color: initial;
+	color: white;
+        background-color: lightblue;
 }
 
 /* Related demos */
